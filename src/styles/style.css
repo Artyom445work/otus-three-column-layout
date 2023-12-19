@@ -13,12 +13,6 @@
   margin-right: auto;
 }
 
-.content {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-}
-
 .middle-section {
   max-width: 1000px;
 }
